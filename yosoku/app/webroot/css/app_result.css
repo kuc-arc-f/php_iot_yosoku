@@ -1,0 +1,18 @@
+﻿.field_title
+{
+ background-color : green;
+}
+.field_title h3{
+ color:white;
+ margin:10px;
+}
+
+
+.h1_now_degree{
+  color:green;
+}
+.p_param{
+  color:green;
+  margin-left: 10px;
+  font-size: 18px;
+}
